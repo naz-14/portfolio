@@ -104,7 +104,7 @@ const projects = [
       "Apollo Client",
       "Apollo Server",
     ],
-    image: { src: "enigmasuite.png", alt: "Enigmasuite" },
+    image: { src: "neosuiteapp.jpg", alt: "Enigmasuite App" },
   },
   {
     id: 3,
@@ -121,7 +121,7 @@ const projects = [
       "GraphQL",
       "MySQL",
     ],
-    image: { src: "enigmasuite.png", alt: "Enigmasuite" },
+    image: { src: "embarques.jpg", alt: "Rotes app" },
   },
   {
     id: 4,
@@ -131,7 +131,7 @@ const projects = [
       "Participe como full-stack developer desarrollando distinas caracteristicas tanto en backend, frontend y mobile, posteriormente se solicitaron ajustes para hacer un control de accesos mas generalizado y yo me encargue de dichas modificaciones conforme los requerimientos solicitados.",
     ],
     techs: ["ReactJS", "Typescript"],
-    image: { src: "enigmasuite.png", alt: "Enigmasuite" },
+    image: { src: "guyanatickets.png", alt: "Tickets" },
   },
   {
     id: 5,
